@@ -1,0 +1,8 @@
+[package]
+name = "rust_crash_course"
+version = "0.1.0"
+authors = ["Mick Dekkers <mickdekkersnl@gmail.com>"]
+edition = "2018"
+license-file = "LICENSE"
+
+[dependencies]
